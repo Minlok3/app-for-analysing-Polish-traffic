@@ -6,6 +6,7 @@ A Full-Stack web application designed for analyzing and visualizing road traffic
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
 - [Prerequisites](#prerequisites)
 - [Installation & Setup](#installation--setup)
 - [Project Structure](#project-structure)
@@ -28,6 +29,18 @@ This application processes statistical datasets regarding traffic volume in Pola
 - **Frontend:** React.js, Chart.js (visualization), CSS Modules.
 - **Database:** MySQL 8.0 (running as a Docker container).
 - **Infrastructure:** Docker, Docker Compose.
+
+## Screenshots
+<img width="1920" height="941" alt="s1" src="https://github.com/user-attachments/assets/9d8694c3-5ad3-49a6-b115-32568b672b07" />
+<br>
+<img width="1920" height="948" alt="s2" src="https://github.com/user-attachments/assets/b733cb6e-8274-4766-aaef-ce28326f4aee" />
+<br>
+<img width="1920" height="945" alt="s3" src="https://github.com/user-attachments/assets/cab85e93-fc77-43bd-9077-365ac5064bc3" />
+<br>
+<p align="center">
+<img width="504" height="944" alt="s4" src="https://github.com/user-attachments/assets/acebad5c-bff3-4dc5-b52e-81fc1caa9c52" />
+</p>
+<img width="1920" height="937" alt="s5" src="https://github.com/user-attachments/assets/1a4da264-1fc6-484b-a01d-e42035877619" />
 
 ## Prerequisites
 - **Docker** and **Docker Compose** installed.
