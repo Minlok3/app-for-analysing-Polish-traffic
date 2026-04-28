@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.mt10 {
+  margin-top: 10vh;
+}
+
+.d-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.l-col {
+  height: 64vh;
+  width: 50vw;
+}
+
+.r-col {
+  max-height: 64vh;
+  width: 50vw;
+}
+
+.r-col canvas {
+  max-height: 32vh;
+}
+
+input, textarea, select {
+  margin: 1vh 0 1vh 0;
+  padding: 1vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.ml5vw{
+  margin-left: 5vw;
+}
+
+.inputy {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputy div label {
+  display: inline-block;
+  width: 10vw;
+}
+
+.inputy div input,select {
+  display: inline-block;
+  width: 10vw;
+}

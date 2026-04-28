@@ -1,0 +1,11 @@
+.marginTop {
+    margin-top: 10vh;
+}
+
+.cardForm {
+    width: 30vw;
+    background-color: #FAF9F6;
+    padding: 3vh;
+    border: 1px solid black;
+    margin-left: 5vw;
+}
